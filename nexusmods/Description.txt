@@ -1,0 +1,22 @@
+[b]UE4SS[/b] is a Lua scripting system, blueprint mod loader and live debugger for [b]UE4/5[/b] games.
+Check out the [url=https://github.com/UE4SS-RE/RE-UE4SS/]GitHub Repository[/url] for more information.
+
+[b][font=Georgia][b][color=#f6b26b][size=4][img]https://s12.gifyu.com/images/Sr2Bq.png[/img] 
+[/size][/color][/b][/font][/b][size=3][color=#f6b26b][b]1[/b][/color][color=#f4f4f4]) Install with [/color][color=#ff7700]Vortex[/color][color=#f4f4f4].[/color]
+
+[/size][b][font=Georgia][color=#f6b26b][size=4][img]https://s12.gifyu.com/images/Sr2Bk.png[/img]   [/size][/color][/font][/b]
+[font=Arial][size=3][color=#f6b26b][b]1[/b][/color][color=#f4f4f4]) Download the File[/color][/size][/font][font=Arial][size=3].[/size][/font][font=Arial][size=3][color=#f4f4f4]
+[/color][color=#f6b26b][b]2[/b][/color]) Extract the file with 7zip/WinZip/WinRar.
+[color=#f6b26b][b]3[/b][/color]) Drag and drop into your [color=#f4f4f4]Hogwarts Legacy Directory[/color][/size][size=3] in the following locations.[/size][/font]
+
+[list]
+[*][color=#f4f4f4][size=3][b]Steam users>  [/b][i]Drive Letter\SteamLibrary\steamapps\common\Hogwarts Legacy[/i][/size][/color]
+[*][color=#f4f4f4][size=3][b]GOG users>     [/b][i]Drive Letter\GOGLibrary\Games\Hogwarts Legacy[/i][/size][/color]
+[*][color=#f4f4f4][size=3][b]Epic users>      [/b][i]Drive Letter\EpicLibrary\Hogwarts Legacy[/i][/size][/color]
+[color=#f4f4f4][size=3][i]
+[/i][/size][/color][/list][color=#f4f4f4][size=3][i]
+[/i][/size][/color][font=Georgia][color=#f6b26b][size=4][b]COMMON ISSUES
+[/b][/size][/color][/font][font=Arial][size=3][b]If you are crashing on startup:[/b][/size][size=3]
+[list]
+[*]Make sure you have completely removed the old version of the Mod
+[/list][/size][/font]
