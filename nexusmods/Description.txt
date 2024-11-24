@@ -2,7 +2,7 @@
 Check out the [url=https://github.com/UE4SS-RE/RE-UE4SS/]GitHub Repository[/url] for more information.
 
 [b][font=Georgia][b][color=#f6b26b][size=4][img]https://s12.gifyu.com/images/Sr2Bq.png[/img] 
-[/size][/color][/b][/font][/b][size=3][color=#f6b26b][b]1[/b][/color][color=#f4f4f4]) Install with [/color][color=#ff7700]Vortex[/color][color=#f4f4f4].[/color]
+[/size][/color][/b][/font][/b][size=3][color=#f6b26b][b]1[/b][/color][color=#f4f4f4]) Install with [/color][url=https://www.nexusmods.com/about/vortex/][b]Vortex[/b][/url] [color=#f4f4f4]mod manager.[/color]
 
 [/size][b][font=Georgia][color=#f6b26b][size=4][img]https://s12.gifyu.com/images/Sr2Bk.png[/img]   [/size][/color][/font][/b]
 [font=Arial][size=3][color=#f6b26b][b]1[/b][/color][color=#f4f4f4]) Download the File[/color][/size][/font][font=Arial][size=3].[/size][/font][font=Arial][size=3][color=#f4f4f4]
